@@ -5,13 +5,11 @@ Lucifer_Metzker: 22.12.2038
 Farell_Vista: 01.01.2038
 Tommy_Corona: 01.01.2038
 Vusi_Metzker: 01.01.2038
-Jayden_Kings: 01.01.2038
 Kip_Epps: 01.01.2038
 Boulevard_Corona: 01.01.2038
 Rain_Metzker: 01.01.2038
 John_Kaplan: 01.01.2038
 Enzoo_Metzker: 01.01.2038
-Alexander_Mahone: 01.01.2038
 Oscar_Corona: 01.01.2038
 Juan_Corona: 01.01.2038
 Christopher_Fazzari: 01.01.2038
