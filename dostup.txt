@@ -12,3 +12,4 @@ Oscar_Corona: 01.01.2038
 Juan_Corona: 01.01.2038
 Yurii_Poltoraha: 01.01.2038
 Boets_Seal: 01.01.2038
+Strelok_Nolodin: 01.01.2038
