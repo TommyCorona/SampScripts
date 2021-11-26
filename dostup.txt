@@ -1,16 +1,1 @@
-Kichiro_Takahashi: 31.12.2038
-Brick_Bazuka: 01.01.2038
-Luis_Eve: 01.01.2038
-Lucifer_Metzker: 22.12.2038
-Farell_Vista: 01.01.2038
-Tommy_Corona: 01.01.2038
-Vusi_Metzker: 01.01.2038
-Boulevard_Corona: 01.01.2038
-Rain_Metzker: 01.01.2038
-Enzoo_Metzker: 01.01.2038
-Oscar_Corona: 01.01.2038
-Juan_Corona: 01.01.2038
-Yurii_Poltoraha: 01.01.2038
-Boets_Seal: 01.01.2038
-Strelok_Nolodin: 01.01.2038
-White_Hood: 01.01.2038
+Китиро_Такахаси: 31.12.2038 Кирпич_Базука: 01.01.2038 Луис_Ев: 01.01.2038 Люцифер_Мецкер: 22.12.2038 Farell_Vista: 01.01.2038 Tommy_Corona: 01.01.2038 Vusi_Metzker: 01.01.2038 Бульвар_Корона: 01.01.2038 Rain_Metzker: 01.01.2038 Enzoo_Metzker: 01.01.2038 Оскар_Корона: 01.01.2038 Хуан_Корона: 01.01.2038 Юрий_Полтораха: 01.01.2038 Boets_Seal: 01.01.2038 Strelok_Nolodin: 01.01.2038 Белый_Ход: 01.01.2038 Лео_Федель: 01.01.2038
