@@ -5,3 +5,4 @@ Strelok_Nolodin: 01.01.2038
 Tommy_Corona: 01.01.2038
 Prince_Corona: 01.01.2038
 Brick_Bazuka: 01.01.2038
+White_Hood: 01.01.2038
