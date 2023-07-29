@@ -11,3 +11,4 @@ Felix_Als: 01.01.2038
 Nikka_Cabrera: 01.01.2038
 Ragnar_Arras: 01.01.2038
 Brian_Osborne: 01.01.2038
+Hikari_Ultra: 01.01.2038
