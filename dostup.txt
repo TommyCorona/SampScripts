@@ -1,15 +1,6 @@
 Oscar_Corona: 01.01.2038
 Tommy_Corona: 01.01.2038
 Prince_Corona: 01.01.2038
-Brick_Bazuka: 01.01.2038
-Boulvard_Corona: 01.01.2018
-Farell_Vista: 01.01.2038
-Kichiro_Takahashi: 01.01.2038
-Luis_Eve: 01.01.2038
-Frederik_Melgaard: 01.01.2038
-Felix_Als: 01.01.2038
-Nikka_Cabrera: 01.01.2038
-Ragnar_Arras: 01.01.2038
 Brian_Osborne: 01.01.2038
 Hikari_Ultra: 01.01.2038
 Josephine_Everingham: 01.01.2038
