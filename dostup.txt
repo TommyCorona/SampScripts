@@ -2,8 +2,8 @@ Oscar_Corona: 01.01.2022
 Tommy_Corona: 01.01.2038
 Prince_Corona: 01.01.2022
 Brian_Osborne: 01.01.2038
-Hikari_Ultra: 01.01.2038
-Josephine_Everingham: 01.01.2038
+Hikari_Ultra: 01.01.2022
+Josephine_Everingham: 01.01.2022
 Aleks_Brooks: 01.01.2022
 Klara_Venda: 01.01.2022
 Rieger_Koss: 01.01.2022
@@ -11,3 +11,4 @@ Mike_Martinez: 01.01.2022
 Alehandro_Cole: 01.01.2022
 Kirika_Oi: 01.10.2023
 Hydra_Blacksprut: 01.01.2022
+Manuel_Corona: 01.01.2038
